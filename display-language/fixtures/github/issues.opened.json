@@ -1,0 +1,18 @@
+{
+  "action": "opened",
+  "repository": {
+    "id": 1,
+    "full_name": "circleJ/jk_test",
+    "name": "jk_test",
+    "html_url": "https://github.com/circleJ/jk_test",
+    "owner": { "login": "circleJ" }
+  },
+  "issue": {
+    "number": 7,
+    "html_url": "https://github.com/circleJ/jk_test/issues/7",
+    "title": "Configure Display Language to es",
+    "body": "Please set the repository display language.",
+    "user": { "login": "octocat" }
+  },
+  "sender": { "login": "octocat", "id": 1, "type": "User" }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "display-language",
+  "private": true,
+  "type": "module",
+  "description": "GitHub agent that configures a repository display language.",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "node --import tsx --test test/**/*.test.ts"
+  },
+  "dependencies": {
+    "@cursor/bdk": "0.2.25",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "tsx": "^4.20.5",
+    "typescript": "5.9.3"
+  }
+}
